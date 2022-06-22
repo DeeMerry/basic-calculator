@@ -1,6 +1,6 @@
 
 let num1 = parseInt(prompt("Enter First number"));
-let operators = prompt("Enter operation to perform");
+let operators = prompt("Enter operation to perform +,*,-,/");
 let num2 = parseInt(prompt("Enter Second number"));
 
 if(operators === '+'){
